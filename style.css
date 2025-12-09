@@ -361,4 +361,6 @@ main, .contact-container, .portfolio-container {
 
 .contact-map {
     width: 100%;
+    height: 300px;
 }
+
