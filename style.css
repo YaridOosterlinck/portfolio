@@ -20,7 +20,7 @@ body {
 .header {
     background-color: var(--wit);
     text-align: center;
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
     border-bottom: 4px solid var(--blauw);
 }
 
@@ -363,4 +363,5 @@ main, .contact-container, .portfolio-container {
     width: 100%;
     height: 300px;
 }
+
 
